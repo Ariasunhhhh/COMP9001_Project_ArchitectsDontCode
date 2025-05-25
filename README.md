@@ -90,8 +90,10 @@ The system consists of three main components:
 | `assistant.py`     | The AI logic layer. Contains the `RhinoModelingAssistant` class that communicates with OpenAI to generate parameters, code, and feedback loops. |
 | `.env`             | Stores your OpenAI API key.                |
 
-##  Demo
-The video of the demo details is coming soon
+##  Demo  
+https://github.com/user-attachments/assets/99071303-e312-406a-b201-f2a30626b9f3  
+
+Final result  
 ![1748177978304](https://github.com/user-attachments/assets/27867fd4-4826-431e-a6c7-781d3abd5be2)
 
 
