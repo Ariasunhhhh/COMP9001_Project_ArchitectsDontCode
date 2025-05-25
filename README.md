@@ -91,13 +91,10 @@ The system consists of three main components:
 | `.env`             | Stores your OpenAI API key.                |
 
 ##  Demo  
-clearer version of Vedio link:  https://youtu.be/ZE5jnxEn68M   
+Video:  
+[![Watch the video](https://img.youtube.com/vi/mo9-TDG2Bdc/hqdefault.jpg)](https://www.youtube.com/watch?v=mo9-TDG2Bdc)  
 
-
-https://github.com/user-attachments/assets/b34bf871-43cc-451d-8a8f-edffed699be5
-
-
-Final result:   
+Screenshot :   
 ![1748177978304](https://github.com/user-attachments/assets/27867fd4-4826-431e-a6c7-781d3abd5be2)
 
 
