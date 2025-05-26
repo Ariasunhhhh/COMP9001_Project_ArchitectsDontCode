@@ -95,8 +95,36 @@ Video:
 [![Watch the video](https://img.youtube.com/vi/mo9-TDG2Bdc/hqdefault.jpg)](https://www.youtube.com/watch?v=mo9-TDG2Bdc)  
 
 Screenshot :   
-![1748177978304](https://github.com/user-attachments/assets/27867fd4-4826-431e-a6c7-781d3abd5be2)
+![1748177978304](https://github.com/user-attachments/assets/27867fd4-4826-431e-a6c7-781d3abd5be2)  
 
+---
+##  FAQ
+### ❓ Can This Be Run Without Rhino?
+
+Yes! Although this project is designed to generate modelling code for Rhino 3D, it **does not require Rhino to test, review, or evaluate the core functionality**.  
+What you need to do is:  
+- Install Required Python Packages  
+- Set Your OpenAI API Key  
+- Launch the App: streamlit run main.py  
+
+### ✅ Here is an example use case：  
+- Input:  
+"A modern tower with twisting geometry and a tapered base"
+
+- Output:  
+Adjustable parameters (e.g. height, twist, taper)  
+Beginner-friendly modelling instructions  
+Rhino Python code (displayed and auto-saved)  
+Option to provide feedback and get corrected scripts
+
+- Code Correction Without Rhino
+Even without Rhino installed, you can test the feedback system:  
+Submit a manual error message (e.g. "NameError: name 'rs' is not defined" ", Can you make it cooler?")  
+Observe how the assistant updates and explains code fixes
+
+- Scripts are automatically saved to your desktop under:  
+~/Desktop/RhinoScripts/  
+ 
 
 
 
